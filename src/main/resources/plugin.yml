@@ -1,0 +1,5 @@
+name: wildrespawn
+description: executes /wild when player has no bed
+version: 1.0.0-SNAPSHOT
+api-version: 1.16
+main: dev.jacobandersen.wildrespawn.WildRespawnPlugin
